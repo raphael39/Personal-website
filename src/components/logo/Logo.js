@@ -21,7 +21,7 @@ export const Logo = () => {
       xmlns="http://www.w3.org/2000/svg"
     >
       {/* Outer Circle */}
-      <circle cx="100" cy="100" r="95" stroke="white" strokeWidth="10" fill="none" />
+      <circle cx="100" cy="100" r="95" stroke="#00bfbf" strokeWidth="10" fill="none" />
 
       {/* RS Text */}
       <text
@@ -29,7 +29,7 @@ export const Logo = () => {
         y="50%"
         fontFamily="Arial, sans-serif"
         fontSize="70"
-        fill="white"
+        fill="#00bfbf"
         textAnchor="middle"
         dominantBaseline="middle"
         fontWeight="bold"
@@ -38,7 +38,8 @@ export const Logo = () => {
       </text>
 
       {/* Custom line modification for 'R' */}
-      <path d="M80 120 Q85 110 100 130" stroke="white" strokeWidth="6" fill="none" />
-    </svg>
+      <path d="M80 120 Q85 110 100 130" stroke="#00bfbf" strokeWidth="6" fill="none" />
+</svg>
+
   );
 };

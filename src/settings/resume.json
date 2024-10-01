@@ -1,48 +1,42 @@
 {
     "basics": {
-        "name": "Jo Lienhoop",
+        "name": "Raphael Sutter",
         "label": "Computer Science student",
-        "email": "hey@jolienhoop.com",
+        "email": "sutter.rapha@gmail.com",
         "phone": "(XXX) XXX-XXXX",
-        "picture": "jl.png",
+        "picture": "rs.png",
         "x_title": "Hey, I'm",
-        "job": "CS student",
-        "description": "Hey, I'm Jo Lienhoop, a Computer Science student based in Bremen, Germany. I love all things technical. Talk soon!",
-        "summary": "based in Bremen, Germany.",
-        "keywords": "personal,website,portfolio,template,kit,jo,lienhoop,jolienhoop,computer,science,bremen,germany,react,github,linkedin,google,gitlab,telegram,material,design,ui,webapp",
-        "url": "https://jolienhoop.com",
+        "job": "Computer Scientist",
+        "description": "Hey, I'm Jo Lienhoop, a Computer Science student based in Zürich, Switzerland. I love all things technical. Talk soon!",
+        "summary": "based in Zürich, Switzerland.",
+        "keywords": "personal,website,portfolio,template,kit,Raphael,Sebastian,Sutter,computer,science,Zürich,Switzerland,react,github,linkedin,google,gitlab,telegram,material,design,ui,webapp",
+        "url": "https://raphaelsutter.com",
         "location": {
             "address": "XX XXXXXstreet",
             "postalCode": "XXXXX",
-            "city": "Bremen",
-            "country": "Germany",
-            "countryCode": "DEU",
-            "region": "Bremen"
+            "city": "Zürich",
+            "country": "Switzerland",
+            "countryCode": "CH",
+            "region": "Zürich"
         },
         "profiles": [
             {
                 "network": "Google",
-                "username": "hey@jolienhoop.com",
-                "url": "mailto:hey@jolienhoop.com",
+                "username": "sutter.rapha@gmail.com",
+                "url": "mailto:sutter.rapha@gmail.com",
                 "x_icon": "fab fa-google"
             },
             {
                 "network": "LinkedIn",
-                "username": "jolienhoop",
-                "url": "https://www.linkedin.com/in/jolienhoop/",
+                "username": "sutterraphael",
+                "url": "https://de.linkedin.com/in/sutterraphael",
                 "x_icon": "fab fa-linkedin-in"
             },
             {
                 "network": "GitHub",
-                "username": "johoop",
-                "url": "https://github.com/JoHoop",
+                "username": "raphael39",
+                "url": "https://github.com/raphael39",
                 "x_icon": "fab fa-github"
-            },
-            {
-                "network": "GitLab",
-                "username": "joli",
-                "url": "https://gitlab.informatik.uni-bremen.de/joli",
-                "x_icon": "fab fa-gitlab"
             }
         ]
     },

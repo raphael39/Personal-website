@@ -1,6 +1,6 @@
 # Personal Website React
 
-[![Screenshot](/public/social-image.png?raw=true)](https://jolienhoop.com)
+This personal Website was inspired by [JoHoop](https://github.com/JoHoop/personal-website-react)
 
 [![Website jolienhoop.com](https://img.shields.io/website-up-down-green-red/http/shields.io.svg)](https://jolienhoop.com)
 [![GitHub license](https://img.shields.io/github/license/Naereen/StrapDown.js.svg)](https://github.com/JoHoop/personal-website-react/blob/master/LICENSE)

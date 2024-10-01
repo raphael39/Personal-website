@@ -21,10 +21,10 @@
         },
         "profiles": [
             {
-                "network": "Google",
+                "network": "Mail",
                 "username": "sutter.rapha@gmail.com",
                 "url": "mailto:sutter.rapha@gmail.com",
-                "x_icon": "fab fa-google"
+                "x_icon": "fas fa-envelope"
             },
             {
                 "network": "LinkedIn",

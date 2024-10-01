@@ -6,6 +6,7 @@ import { makeStyles } from '@material-ui/core/styles';
 import DisplacementSphere from '../components/background/DisplacementSphere';
 import { SocialIcons } from '../components/content/SocialIcons';
 import { SpeedDials } from '../components/speedDial/SpeedDial';
+import { ThemeToggle } from '../components/theme/ThemeToggle';
 
 const useStyles = makeStyles(() => ({
   root: {
@@ -24,7 +25,7 @@ export const Home = () => {
         <DisplacementSphere />
         <LogoLink />
         <Content />
-       
+        <ThemeToggle />
         <Hidden smDown>
           <SocialIcons />
         </Hidden>

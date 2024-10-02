@@ -13,6 +13,7 @@ const useStyles = makeStyles(() => ({
     display: 'flex',
     flexDirection: 'column',
     minHeight: '100vh',
+    minWidth: '100vw',
   },
 }));
 
@@ -25,13 +26,13 @@ export const Home = () => {
         <DisplacementSphere />
         <LogoLink />
         <Content />
-        <ThemeToggle />
         <Hidden smDown>
           <SocialIcons />
         </Hidden>
         <Hidden mdUp>
           <SpeedDials />
         </Hidden>
+        <ThemeToggle />
       </div>
     </>
   );

@@ -37,6 +37,12 @@
                 "username": "raphael39",
                 "url": "https://github.com/raphael39",
                 "x_icon": "fab fa-github"
+            }, 
+            {
+                "network": "CV",
+                "username": "Resume",
+                "url": "/Raphael-Sutter-FlowCV-Resume-20241002.pdf",
+                "x_icon": "fas fa-file"
             }
         ]
     },

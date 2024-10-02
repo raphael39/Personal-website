@@ -7,10 +7,10 @@ import { Brightness4, Brightness7 } from "@material-ui/icons";
 const useStyles = makeStyles((theme) => ({
     iconButton: {
         position: "absolute",
-        bottom: theme.spacing(6),
-        right: theme.spacing(6),
         height: "2.5rem",
         width: "2.5rem",
+        bottom: theme.spacing(5),
+        right: theme.spacing(5),
     },
     icon: {
         fontSize: "1.25rem",

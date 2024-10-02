@@ -9,8 +9,8 @@ const useStyles = makeStyles((theme) => ({
         width: "40px",
         height: "40px",
         position: "absolute",
-        top: theme.spacing(5),
-        left: theme.spacing(5),
+        top: theme.spacing(4),
+        left: theme.spacing(4),
         boxShadow:
             "0px 3px 5px -1px rgba(0,0,0,0.2),0px 6px 10px 0px rgba(0,0,0,0.14),0px 1px 18px 0px rgba(0,0,0,0.12)",
         borderRadius: "50%",

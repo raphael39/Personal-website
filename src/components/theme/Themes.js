@@ -47,6 +47,7 @@ export const LightTheme = responsiveFontSizes(
           },
         },
       },
+      },
       MuiIconButton: {
         root: {
           boxShadow:
@@ -56,6 +57,7 @@ export const LightTheme = responsiveFontSizes(
           },
           transition: 'all 0.5s ease',
         },
+        
       },
       MuiFab: {
         root: {
@@ -83,7 +85,10 @@ export const LightTheme = responsiveFontSizes(
           },
           transition: 'all 0.5s ease',
           margin: '0px',
-          marginBottom: '16px',
+          marginBottom: '8px',
+          
+          
+          
         },
       },
       MuiTooltip: {
@@ -175,7 +180,7 @@ export const DarkTheme = responsiveFontSizes(
           },
           transition: 'all 0.5s ease',
           margin: '0px',
-          marginBottom: '16px',
+          marginBottom: '8px',
         },
       },
       MuiTooltip: {

@@ -8,15 +8,17 @@ const useStyles = makeStyles((theme) => ({
     position: 'absolute',
     top: theme.spacing(3),
     right: theme.spacing(3),
+    marginBottom: '4px !important',
   },
   iconButton: {
     height: '2.5rem',
     width: '2.5rem',
     display: 'block',
-    marginBottom: theme.spacing(2),
+    marginBottom: '4px !important',
   },
   icon: {
     fontSize: '1.25rem',
+    marginBottom: '4px !important',
   },
 }));
 
@@ -25,6 +27,7 @@ export const SocialIcons = () => {
 
   const socialItems = Resume.basics.profiles.map((socialItem) => (
     <Link
+    sx={{ marginBottom: '4px' }}
       href={socialItem.url}
       key={socialItem.network.toLowerCase()}
       target='_blank'
@@ -38,6 +41,7 @@ export const SocialIcons = () => {
         TransitionComponent={Zoom}
       >
         <IconButton
+        sx={{ marginBottom: '4px' }}
           color='inherit'
           aria-label={socialItem.network}
           className={classes.iconButton}

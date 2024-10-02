@@ -30,7 +30,8 @@ export const Home = () => {
           <SocialIcons />
         </Hidden>
         <Hidden mdUp>
-          <SpeedDials />
+          <SpeedDials
+            />
         </Hidden>
         <ThemeToggle />
       </div>
